@@ -1,6 +1,6 @@
 /*!
  * DIGITALAW — After-Deal Shared Logic Engine (pure functions, no DOM, no globals besides Date/Math/String/JSON)
- * SOURCE OF TRUTH for Module 3 ("אחרי עסקה") business logic.
+ * SOURCE OF TRUTH for Module 3 ("אחרי עסקה") business logic. 
  * Consumed by BOTH:
  *   1. The web portal (system1_v96_34.html, module #mod-after) — its UI wrapper functions call into this
  *      engine and then render the DOM/UI from the returned data.
